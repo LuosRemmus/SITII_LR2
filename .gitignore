@@ -3,9 +3,15 @@
 .venv
 venv
 venv/
-.idea
 
+.idea
 ./.idea
 /.idea
 .idea/
 idea
+
+/env
+./env
+.env
+env
+env/
